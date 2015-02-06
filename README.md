@@ -10,6 +10,7 @@ Hours, Minutes, Seconds, Day name, Julian date
 Beware the Ides of March!
 
 Public Web Link  :https://apps.getpebble.com/applications/54d3f9714ba764a132000021
+
 Deep Link  : pebble://appstore/54d3f9714ba764a132000021
 
-You can find out about the Julian dates here.
+You can find out about the Julian dates [here](http://www.unrv.com/culture/julian-calendar-chart.php).
