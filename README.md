@@ -1,5 +1,5 @@
 # XCI-Dub
-Roman numal watch face for Pebble.
+Roman numeral watch face for Pebble.
 
 If the Pebble had been around in Roman days, perhaps this would have been Julius Caesars watchface.
 
