@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Orviwan",
+    "longName": "XCI Dub",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[A-Za-z ]",
+                "file": "fonts/droid-serif.bold.ttf",
+                "name": "FONT_DROID_SERIF_11",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[A-Z0-9:]",
+                "file": "fonts/droid-serif.bold.ttf",
+                "name": "FONT_DROID_SERIF_30",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[A-Z0-9:]",
+                "file": "fonts/droid-serif.bold.ttf",
+                "name": "FONT_DROID_SERIF_20",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[A-Z0-9:]",
+                "compatibility": "2.7",
+                "file": "fonts/droid-serif.bold.ttf",
+                "name": "FONT_DROID_SERIF_34",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "XCI Dub",
+    "uuid": "5b337a25-d80a-473c-99d4-9f32c5fbd728",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
