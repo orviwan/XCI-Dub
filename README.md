@@ -3,7 +3,7 @@ Roman numal watch face for Pebble.
 
 If the Pebble had been around in Roman days, perhaps this would have been Julius Caesars watchface.
 
-(http://i.imgur.com/59iG0x9.png)
+![XCI Dub](http://i.imgur.com/59iG0x9.png)
 
 Hours, Minutes, Seconds, Day name, Julian date
 
