@@ -86,10 +86,10 @@ static void handle_tick(struct tm *tick_time, TimeUnits units_changed) {
     text_layer_set_text(s_hour_layer, digit_to_roman_numeral(get_display_hour(tick_time->tm_hour)));
   }
   if (units_changed & MINUTE_UNIT) {
-    text_layer_set_text(s_minute_layer, digit_to_roman_numeral(get_display_hour(tick_time->tm_min)));
+    text_layer_set_text(s_minute_layer, digit_to_roman_numeral(tick_time->tm_min));
   } 
   if (units_changed & SECOND_UNIT) {
-    text_layer_set_text(s_second_layer, digit_to_roman_numeral(get_display_hour(tick_time->tm_sec)));
+    text_layer_set_text(s_second_layer, digit_to_roman_numeral(tick_time->tm_sec));
   }  
 }
 

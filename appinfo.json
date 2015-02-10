@@ -38,7 +38,7 @@
     "shortName": "XCI Dub",
     "uuid": "5b337a25-d80a-473c-99d4-9f32c5fbd728",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "watchface": true
     }

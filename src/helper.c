@@ -27,7 +27,7 @@ const char *roman_day_name(int day) {
 
 const char *digit_to_roman_numeral(unsigned short digit) {
     switch (digit) {
-        case 0: return "XII";
+        case 0: return "";
         case 1: return "I";
         case 2: return "II";
         case 3: return "III";
